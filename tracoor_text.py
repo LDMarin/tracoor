@@ -12,7 +12,7 @@ oFile_all = "*.*"
 newFilePrefix = "_nuevo.csv"
 about_title = "Acerca de esta aplicación"
 about_text = """Tracoor: Programa de transformación de coordenadas geográficas.
-Versión: 0.3.5 RC
+Versión: 0.3.5-beta
 Copyright (C) 2021 LD Marin
 
 Este programa es software gratuito: puedes redistribuirlo
