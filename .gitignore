@@ -1,1 +1,5 @@
-/__pycache__
+# Ignore IDE automatic created files/folders
+.vscode/
+
+# Ignore pycache folder
+__pycache__/
